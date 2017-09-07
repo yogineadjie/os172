@@ -3,4 +3,5 @@ Pada Task01 ini kita diajarkan dasar-dasar mengenai :
 - Remote Server menggunakan aplikasi Putty.
 - SSH badak server menggunakan akun SSO.
 - Clone Github Repository untuk mengerjakan Task.
-- Mengetahui fungsi CLI Git seperti "git add ., git commit -m, git pull & push".- Updating file pada Github menggunakan remote server.  
+- Mengetahui fungsi CLI Git seperti "git add ., git commit -m, git pull & push".
+- Updating file pada Github menggunakan remote server.  
