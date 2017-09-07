@@ -1,1 +1,16 @@
 #yogineadjie
+
+Why Study OS ?
+
+Karena saya ingin menambah wawasan lebih terhadap suatu OS dimana fungsi OS tersendiri adalah :
+
+- Menjalankan Operasi dasar.
+- Mengatur kerja Hadrware & Software.
+- Menyajikan tampilan suatu perangkat.
+- Mengoptimalkan fungsi perangkat komputer.
+- Mengawasi dan menjalankan suatu program.
+
+Disamping itu, yang saya harapkan pada Mata Kuliah OS di Universitas Indonesia adalah mendapat
+pembekalan mengenai Dasar-dasar OS dan pengaplikasian terhadap dunia kerja nantinya.
+
+Sebagai contoh pada task01 ini kita di arahkan untuk mengakses repository Github dengan menggunakan remote Badak Server memakai aplikasi Putty. Dimana kita diajarkan dasar-dasar mengenai Remote Server SSH dan nantinya menurut saya akan sangat berguna dalam dunia kerja apabila posisi kita sebagai Admin Server yang bekerja meng optimalisasi suatu Server dengan waktu kerja yang di tuntut flexibel.
