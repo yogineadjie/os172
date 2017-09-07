@@ -1,0 +1,10 @@
+W00-170831-19-LR-About : Introduction to Operating SysteM,From: Lecturer.
+W00-170831-19-LR-About : Introduction to Operating SysteM,From: Lecturer.
+W00-170831-20-LR-About : Introduction to Operating SysteM,From: Lecturer.
+W00-170831-20-LR-About : Introduction to Operating SysteM,From: Lecturer.
+W00-170831-21-LR-About : Introduction to Operating SysteM,From: Lecturer.
+W00-170831-21-LR-About : Introduction to Operating SysteM,From: Lecturer.
+W00-170901-16-DS-About : Standart Format for QRCode.
+W00-170901-20-LS-About : Watching Video Preparation for Week01 about Software License & Copyright Trademarks, Patents, etc.
+W00-170907-08-LS-About : GITHUB Learning.
+
