@@ -8,3 +8,15 @@ W00-170901-16-DS-About : Standart Format for QRCode.
 W00-170901-20-LS-About : Watching Video Preparation for Week01 about Software License & Copyright Trademarks, Patents, etc.
 W00-170907-08-LS-About : GITHUB Learning.
 
+W01-170831-21-LR-About : Introduction to Open Source & Free Software,From: Lecturer.
+W01-170807-21-LR-About : Introduction to Software License,From: Lecturer.
+W01-170807-21-LR-About : Introduction to Software Classification,From: Lecturer.
+W01-170807-21-LR-About : Introduction to Basic C program,From: Lecturer.
+W01-170807-21-LR-About : Introduction to Basic C program,From: Lecturer.
+
+W02-170814-21-LR-About : Introduction to Breach classification,From: Lecturer.
+W02-170814-21-LR-About : Introduction to Basic CPU process,From: Lecturer.
+W02-170814-21-LR-About : Introduction to Basic Security types,From: Lecturer.
+W02-170814-21-LR-About : Introduction to Public / Private domain,From: Lecturer.
+W02-170814-21-LR-About : Introduction to Basic C program,From: Lecturer.
+
