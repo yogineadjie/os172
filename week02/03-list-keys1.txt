@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/y/yogine.adjie/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/2462AF9E 2017-09-16 [expires: 2018-03-15]
+uid                  Yogine Adjie (OS is Great) <yogine.adjie@ui.ac.id>
+sub   4096R/17435FF7 2017-09-16 [expires: 2018-03-15]
+
